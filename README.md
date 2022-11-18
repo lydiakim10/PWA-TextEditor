@@ -31,13 +31,13 @@ If you have any questions, please feel free to reach out to me at:
 ## Screenshots
 
 ### IndexedDB Screenshot
-![IndexedDB](../../../../../C:/Users/lydia/src/PWA-TextEditor/assets/indexedDb-screenshot.png)
+![IndexedDB](./assets/indexedDb-screenshot.png)
 
 ### Manifest Screenshot
-![Manifest](../../../../../C:/Users/lydia/src/PWA-TextEditor/assets/manifest-screenshot.png)
+![Manifest](./assets/manifest-screenshot.png)
 
 ### Service Worker Screenshot
-![Service Worker](../../../../../C:/Users/lydia/src/PWA-TextEditor/assets/serviceworker-screenshot.png)
+![Service Worker](./assets/serviceworker-screenshot.png)
 
 ### Installed Application Screenshot
-![Installed App](../../../../../C:/Users/lydia/src/PWA-TextEditor/assets/install-screenshot.png)
+![Installed App](./assets/install-screenshot.png)
